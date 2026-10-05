@@ -4,7 +4,7 @@ These notes assume you have Python up and running and have completed the 'Gettin
 
 One way to use Python is via an interactive prompt called the "shell". Loading IDLE, we are first presented with a window called the IDLE shell.
 
-![IDLE editor shell window](img/idle.png)
+![IDLE editor shell window](idle.png)
 
 It is also possible to write a sequence of commands as a program and store this in a file. We will do lots of this later. 
 
